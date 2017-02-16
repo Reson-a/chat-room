@@ -1,0 +1,15 @@
+{
+  "name": "chat-demo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "description": "chatrooms-demo",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mime": "^1.3.4",
+    "socket.io": "^1.7.1"
+  }
+}
